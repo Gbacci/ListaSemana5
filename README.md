@@ -5,7 +5,8 @@
 5) resposta A
 6) resposta A
 
-7) // Define a classe Animal
+   7)
+   // Define a classe Animal
 class Animal {
     // Construtor da classe Animal
     constructor(nome, idade) {
@@ -26,8 +27,10 @@ class Animal {
   // Chama o descrever() para cada animal, exibindo informações no console
   cachorro.descrever(); // Saída: este animal é um cachorro e tem 3 anos de idade.
   gato.descrever();     // Saída: Este animal é um gato e tem 2 anos de idade.
+  ```
 
-  8) // Define a classe Animal
+  8)
+ // Define a classe Animal
 class Animal {
     // Construtor da classe
     constructor(nome, idade) {
@@ -66,7 +69,8 @@ class Animal {
   
   gato.miar(); // Saída: Miau!
 
-9) // define a classe SomadorDeNotas
+9)
+// define a classe SomadorDeNotas
 class SomadorDeNotas {
     // construtor da classe
     constructor() {
@@ -95,7 +99,8 @@ class SomadorDeNotas {
   // chamando o verTotal() para exibir o total das notas
   somador.verTotal(); // Saída: O total das notas é: 24.5
 
-10) // Define a classe Funcionario
+10)
+// Define a classe Funcionario
 class Funcionario {
     // Construtor da classe
     constructor(nome, idade, salarioBase) {
