@@ -5,8 +5,8 @@
 5) resposta A
 6) resposta A
 
-   7)
-   // Define a classe Animal
+7)
+ // Define a classe Animal
 class Animal {
     // Construtor da classe Animal
     constructor(nome, idade) {
